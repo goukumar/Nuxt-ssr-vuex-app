@@ -36,8 +36,10 @@ ul {
     margin: 20px 0;
 }
 li {
-    margin-right:10px;
     list-style: none;
-
 }
+li button {
+  margin-right: 10px;
+}
+
 </style>
